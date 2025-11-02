@@ -194,6 +194,15 @@ pada program ini menggunakan struktur MVC yaitu
 ### Mengimplementasikan framework ORM
 <img width="1299" height="574" alt="image" src="https://github.com/user-attachments/assets/7485953a-449b-4328-a324-49c835ed7057" />
 
+# LIBRARY ATAU FRAMEWORK YANG DIGUNAKAN
+- Hibernate
+  
+  Hibernate digunakan sebagai framework ORM untuk menghubungkan class Java dengan tabel pada database sehingga CRUD dapat dilakukan secara otomatis tanpa banyak SQL manual.   Dengan Hibernate, data entity seperti Laporan dapat langsung dipetakan ke tabel laporan.
+- MYSQL & JBDC Driver
+- Java Swing
+- FileInputStream, JFileChooser
+- LocalDate, java.sql.Date
+- Java Enum
 # CARA MENGGUNAKAN PROGRAM
 ### Halaman Utama
 <img width="1182" height="891" alt="image" src="https://github.com/user-attachments/assets/ec5b3863-544c-4929-b3aa-d00a072b05a3" />
