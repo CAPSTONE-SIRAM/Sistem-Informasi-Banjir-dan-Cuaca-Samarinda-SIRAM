@@ -198,6 +198,7 @@ pada program ini menggunakan struktur MVC yaitu
 - Hibernate
   
   Hibernate digunakan sebagai framework ORM untuk menghubungkan class Java dengan tabel pada database sehingga CRUD dapat dilakukan secara otomatis tanpa banyak SQL manual.   Dengan Hibernate, data entity seperti Laporan dapat langsung dipetakan ke tabel laporan.
+  
 - MYSQL & JBDC Driver
   
   MySQL digunakan sebagai penyimpanan data aplikasi sedangkan JDBC Driver berfungsi sebagai penghubung antara Java dan MySQL agar query dapat berjalan dengan baik.            Kombinasi ini memungkinkan aplikasi menyimpan laporan cuaca secara langsung ke database.
@@ -211,11 +212,14 @@ pada program ini menggunakan struktur MVC yaitu
   JFileChooser memungkinkan pengguna memilih file gambar, sedangkan FileInputStream membaca file tersebut sebagai stream sebelum disimpan ke database. Teknologi ini           digunakan untuk unggah foto bukti laporan.
   
 - LocalDate, java.sql.Date
-  JFileChooser memungkinkan pengguna memilih file gambar, sedangkan FileInputStream membaca file tersebut sebagai stream sebelum disimpan ke database. Teknologi ini           digunakan untuk unggah foto bukti laporan.
+  
+  LocalDate digunakan untuk mengelola tanggal dalam aplikasi, dan java.sql.Date dipakai untuk mengubah format agar dapat disimpan ke database MySQL dengan benar.
   
 - Java Enum
   
-  LocalDate digunakan untuk mengelola tanggal dalam aplikasi, dan java.sql.Date dipakai untuk mengubah format agar dapat disimpan ke database MySQL dengan benar.
+  Java Enum dipakai untuk data yang memiliki pilihan terbatas seperti status cuaca sehingga input lebih konsisten dan mudah dikelola.
+  
+  
   
 # CARA MENGGUNAKAN PROGRAM
 ### Halaman Utama
