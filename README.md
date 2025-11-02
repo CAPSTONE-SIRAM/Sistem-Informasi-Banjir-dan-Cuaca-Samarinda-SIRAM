@@ -38,7 +38,7 @@ Sistem Informasi Banjir dan Cuaca Samarinda atau SIRAM merupakan program yang me
 
 <details>
   <summary>6. Flowchart Kelola Laporan Banjir</summary>
-  <img src="https://github.com/user-attachments/assets/9b758519-8a50-4380-92b2-9dcf86a50b1b"alt="">
+  <img src="https://github.com/user-attachments/assets/022cf852-f45d-4ba2-952b-c34a23da56e4"alt="">
 </details>
 
 <details>
