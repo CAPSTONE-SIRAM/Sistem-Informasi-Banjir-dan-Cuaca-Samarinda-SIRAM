@@ -57,7 +57,7 @@ Sistem Informasi Banjir dan Cuaca Samarinda atau SIRAM merupakan program yang me
   
 - Registrasi: Digunakan untuk membuat akun baru sebagai User. Data user dikumpulkan untuk autentikasi, lalu diarahkan ke Menu User setelah aktif.
   
-- Menu User: Halaman utama bagi User setelah login/registrasi. User dapat melihat laporan banjir yang dibuat oleh user lain kemudian tindak lanjut dari admin. uer juga dapat melihat info cuaca yang sudah dikelola Admin serta mengirim laporan banjir sebagai informasi ke user lain.
+- Menu User: Halaman utama bagi User setelah login/registrasi. User dapat melihat laporan banjir yang dibuat oleh user lain kemudian tindak lanjut dari admin. user juga dapat melihat info cuaca yang sudah dikelola Admin serta mengirim laporan banjir sebagai informasi ke user lain.
   
 - filter Cuaca Sesuai Jenisnya : Pada menu informasi cuaca program memisahkan informasi cuaca berdasarkan cuaca hujan dan cuaca panas sehingga memudahkan user dan memberikan tampilan yang menarik.
 
