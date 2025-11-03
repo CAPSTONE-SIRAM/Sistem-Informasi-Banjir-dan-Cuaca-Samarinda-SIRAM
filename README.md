@@ -1,8 +1,4 @@
 # Sistem-Informasi-Banjir-dan-Cuaca-Samarinda-SIRAM
-
-<img width="1203" height="946" alt="image" src="https://github.com/user-attachments/assets/c594c2eb-b680-495a-b93d-f8ac2c5d798e" />
-
-
 ## Anggota Kelompok
 - Dwi Pebriyanto Pradana 2409116012
 - Najmi Hafizh Mauludan Zain 2409116028
@@ -244,7 +240,7 @@ Halaman Buat Akun digunakan untuk proses registrasi pengguna baru pada aplikasi 
 
 ### Role User/Pengguna
 #### Login
-<img width="1180" height="886" alt="image" src="https://github.com/user-attachments/assets/fb3fd2ef-f2eb-4d3a-84bd-0ea4087c6bc1" />
+<img width="1175" height="887" alt="image" src="https://github.com/user-attachments/assets/43a4a804-8ec6-4e1a-a730-de2926e93304" />
 
 Halaman login digunakan untuk autentikasi pengguna pada aplikasi SIRAM. Pengguna memasukkan username/email dan password untuk mengakses sistem. Jika login berhasil, sistem menampilkan pesan sambutan dan mengarahkan pengguna ke menu user.
 
@@ -288,7 +284,7 @@ Halaman ini menampilkan hasil tindak lanjut dari laporan banjir yang telah dikir
 
 ### Role Admin
 #### Login
-<img width="1173" height="880" alt="image" src="https://github.com/user-attachments/assets/b87cc487-d80b-4262-968f-f7643e1c5c7b" />
+<img width="1177" height="883" alt="image" src="https://github.com/user-attachments/assets/979f5785-ab6f-4078-bf62-e6d37a54407a" />
 Halaman login digunakan untuk autentikasi admin pada aplikasi SIRAM. admin memasukkan username/email dan password untuk mengakses sistem. Jika login berhasil, sistem menampilkan pesan sambutan dan mengarahkan admin ke menu admin.
 
 #### Menu Admin
