@@ -182,6 +182,8 @@ Bagian ini berisi library eksternal (file .jar) yang dibutuhkan agar program dap
 
 <img width="815" height="508" alt="image" src="https://github.com/user-attachments/assets/3f536d0a-386c-4b3f-808d-dcdb885dcdb8" />
 
+Class LaporanDAOImpl mengimplementasikan fungsi tambah() untuk menyimpan data laporan ke database menggunakan Hibernate. Proses dilakukan dengan transaksi agar data tersimpan aman, dan sesi ditutup otomatis untuk mencegah kebocoran koneksi.
+
 ### Menerapkan struktur MVC
 
 <img width="274" height="113" alt="image" src="https://github.com/user-attachments/assets/95a06d9e-f2fe-4ff7-ac71-8ea838cf4606" />
@@ -192,7 +194,10 @@ pada program ini menggunakan struktur MVC yaitu
 - Control terdapat pada package Control yang berfungsii sebagai method yang dijalankan.
 
 ### Mengimplementasikan framework ORM
+
 <img width="1299" height="574" alt="image" src="https://github.com/user-attachments/assets/7485953a-449b-4328-a324-49c835ed7057" />
+
+File hibernate.cfg.xml berfungsi untuk mengatur koneksi Hibernate ke database MySQL serta melakukan mapping antara class model dan tabel database. Pengaturan ini memudahkan proses CRUD tanpa harus menulis query SQL secara langsung.
 
 # LIBRARY ATAU FRAMEWORK YANG DIGUNAKAN
 - Hibernate
