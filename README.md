@@ -228,9 +228,9 @@ File hibernate.cfg.xml berfungsi untuk mengatur koneksi Hibernate ke database My
   
 # CARA MENGGUNAKAN PROGRAM
 ### Halaman Utama
-<img width="1182" height="891" alt="image" src="https://github.com/user-attachments/assets/ec5b3863-544c-4929-b3aa-d00a072b05a3" />
+<img width="1203" height="946" alt="image" src="https://github.com/user-attachments/assets/c594c2eb-b680-495a-b93d-f8ac2c5d798e" />
 
-Halaman Utama dari program ini yaitu sebagai tempat login juga. digunakan untuk autentikasi pengguna sebelum mengakses sistem SIRAM. Pengguna dapat masuk menggunakan email atau username, dan jika belum memiliki akun dapat melakukan registrasi melalui menu ‘Buat Akun’.
+Halaman Utama dari program ini menampikan informasi cuaca terkini. digunakan untuk autentikasi pengguna sebelum mengakses sistem SIRAM. Pengguna dapat masuk menggunakan email atau username, dan jika belum memiliki akun dapat melakukan registrasi melalui menu ‘Buat Akun’.
 
 ### Membuat Akun
 <img width="1196" height="948" alt="image" src="https://github.com/user-attachments/assets/cf27c323-6f75-4931-a2a1-601b1d78238d" />
