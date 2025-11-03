@@ -1,4 +1,8 @@
 # Sistem-Informasi-Banjir-dan-Cuaca-Samarinda-SIRAM
+
+<img width="1203" height="946" alt="image" src="https://github.com/user-attachments/assets/c594c2eb-b680-495a-b93d-f8ac2c5d798e" />
+
+
 ## Anggota Kelompok
 - Dwi Pebriyanto Pradana 2409116012
 - Najmi Hafizh Mauludan Zain 2409116028
@@ -223,8 +227,6 @@ File hibernate.cfg.xml berfungsi untuk mengatur koneksi Hibernate ke database My
 - Java Enum
   
   Java Enum dipakai untuk data yang memiliki pilihan terbatas seperti status cuaca sehingga input lebih konsisten dan mudah dikelola.
-  
-  
   
 # CARA MENGGUNAKAN PROGRAM
 ### Halaman Utama
