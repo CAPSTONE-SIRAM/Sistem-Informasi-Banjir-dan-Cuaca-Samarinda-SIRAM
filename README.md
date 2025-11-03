@@ -57,7 +57,10 @@ Sistem Informasi Banjir dan Cuaca Samarinda atau SIRAM merupakan program yang me
 </details>
 
 # FITUR-FITUR PROGRAM
-- Sistem login: sebagai titik navigasi ke fungsi-utama, Memfasilitasi pemilihan jalur sesuai peran (Admin atau User).
+
+- Tampilan awal: Merupakan tampilan yang menunjukan info cuaca hujan dan cuaca panas.
+
+- Sistem login: Sebagai titik navigasi ke fungsi-utama, Memfasilitasi pemilihan jalur sesuai peran (Admin atau User).
   
 - Registrasi: Digunakan untuk membuat akun baru sebagai User. Data user dikumpulkan untuk autentikasi, lalu diarahkan ke Menu User setelah aktif.
   
