@@ -54,7 +54,7 @@ Sistem Informasi Banjir dan Cuaca Samarinda atau SIRAM merupakan program yang me
 
 # FITUR-FITUR PROGRAM
 
-- Tampilan awal: Merupakan tampilan yang menunjukan info cuaca hujan dan cuaca panas.
+- Tampilan awal: Merupakan tampilan yang menunjukan info cuaca hujan dan cuaca panas. serta menu login dan registrasi.
 
 - Sistem login: Sebagai titik navigasi ke fungsi-utama, Memfasilitasi pemilihan jalur sesuai peran (Admin atau User).
   
@@ -231,7 +231,7 @@ File hibernate.cfg.xml berfungsi untuk mengatur koneksi Hibernate ke database My
 ### Halaman Utama
 <img width="1203" height="946" alt="image" src="https://github.com/user-attachments/assets/c594c2eb-b680-495a-b93d-f8ac2c5d798e" />
 
-Halaman Utama dari program ini menampikan informasi cuaca terkini. digunakan untuk autentikasi pengguna sebelum mengakses sistem SIRAM. Pengguna dapat masuk menggunakan email atau username, dan jika belum memiliki akun dapat melakukan registrasi melalui menu ‘Buat Akun’.
+Halaman utama SIRAM menampilkan informasi cuaca terkini di Samarinda, baik kondisi hujan maupun panas. Pengguna dapat memilih jenis cuaca untuk melihat data seperti suhu, kelembapan, curah hujan, indeks UV, serta potensi banjir atau level panas. Pengguna dapat login untuk mengakses fitur lanjutan atau melakukan registrasi jika belum memiliki akun.
 
 ### Membuat Akun
 <img width="1196" height="948" alt="image" src="https://github.com/user-attachments/assets/cf27c323-6f75-4931-a2a1-601b1d78238d" />
