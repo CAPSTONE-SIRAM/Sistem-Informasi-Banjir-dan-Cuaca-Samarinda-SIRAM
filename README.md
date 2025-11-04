@@ -117,14 +117,21 @@ Abstraction pada class Cuaca untuk menampikan tabel digunakan untuk method dasar
 ### 4. Polymorphism
 Polymorphism adalah kondsi dimana kita dapat membuat ssuatu method dengan nama yang sama namun memiliki variasi kegunaan yang berbeda.
 contoh:
+- Overloading
+  
+  <img width="564" height="298" alt="image" src="https://github.com/user-attachments/assets/5c0acff0-6e63-46e1-bcb8-4313d6814044" />
 
+  Overloading GUI infocuacaU yang dimana terdapat 2 method InfoCuacaU namun yang satu punya parameter id user dan satunya tidak. 
+
+- Overriding
+- 
 <img width="600" height="58" alt="image" src="https://github.com/user-attachments/assets/c5cf4cc6-54fe-42b3-b9ee-c0f6aa0296db" />
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3db06c7a-bf7a-499b-98e8-1d1a7ae6cad1" />
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/dde50396-fe87-418a-b980-d03ba4bbc147" />
 
-Polymorphism diterapkan yaitu ovveriding pada method tampil() yang dioverride dari class abstrak Cuaca. Setiap subclass seperti CuacaHujan dan CuacaPanas memiliki implementasi tampil() sendiri, sehingga sistem dapat menampilkan data sesuai jenis cuaca tanpa mengubah struktur utama.
+Overiding pada method tampil() yang dioverride dari class abstrak Cuaca. Setiap subclass seperti CuacaHujan dan CuacaPanas memiliki implementasi tampil() sendiri, sehingga sistem dapat menampilkan data sesuai jenis cuaca tanpa mengubah struktur utama.
 
 ### 5. Interface
 Interface adalah kelas yang mengimplementasikannya wajib menyediakan semua method yang ada di dalamnya.
