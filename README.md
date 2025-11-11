@@ -49,7 +49,8 @@ Sistem Informasi Banjir dan Cuaca Samarinda atau SIRAM merupakan program yang me
 ### Use Case Diagram
 <details>
   <summary>Use Case Diagram SIRAM</summary>
-  <img src="https://github.com/user-attachments/assets/9cecfa4c-c6df-4760-ac14-6cc564a77b21"alt="">
+  <img <img width="2970" height="1803" alt="use case diagram drawio (2)" src="https://github.com/user-attachments/assets/25526531-8e79-41df-bb9a-06251f24fc18" />
+
 </details>
 
 # FITUR-FITUR PROGRAM
@@ -124,7 +125,7 @@ contoh:
   Overloading GUI infocuacaU yang dimana terdapat 2 method InfoCuacaU namun yang satu punya parameter id user dan satunya tidak. 
 
 - Overriding
-- 
+  
 <img width="600" height="58" alt="image" src="https://github.com/user-attachments/assets/c5cf4cc6-54fe-42b3-b9ee-c0f6aa0296db" />
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3db06c7a-bf7a-499b-98e8-1d1a7ae6cad1" />
@@ -304,7 +305,6 @@ Tampilan utama bagi admin setelah berhasil login ke aplikasi SIRAM. admin dapat 
 <img width="1207" height="950" alt="image" src="https://github.com/user-attachments/assets/2bf5c5ab-c30d-4827-a958-e13cddc5ed64" />
 
 Halaman ini memungkinkan admin untuk mengelola informasi cuaca seperti suhu, kelembapan, curah hujan, dan indeks UV di berbagai wilayah. Admin dapat menambah, memperbarui, atau menghapus data sesuai kondisi cuaca yang tercatat.
-
 
 1. Tambah Info Cuaca
    <img width="1203" height="943" alt="image" src="https://github.com/user-attachments/assets/24921194-76ad-41c9-8312-079a9bfc1791" />
